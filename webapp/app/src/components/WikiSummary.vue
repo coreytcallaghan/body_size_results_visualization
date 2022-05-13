@@ -10,6 +10,9 @@
       p(v-if="text") {{ text }}
       p(v-if="!text") No Wikipedia article found for 
         b {{selected}} &#x1F622
+      hr
+      .ui.rounded.fluid.image
+        img(:src="resultsImage")
 </template>
 
 <script>
@@ -35,6 +38,10 @@ export default {
     }
   },
   asyncComputed: {
+    resultsImage () {
+      var img = 'static/results/family_level_model_vis/' + this.selected + '.png'
+      return img
+    },
     imageUrl () {
       return wikiApi.page(this.selected).then(x => {
         return x.mainImage()

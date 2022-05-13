@@ -1,303 +1,303 @@
-Order,Family,sp_count,obs_count,bio_count,effect,fam
-Accipitriformes,"Accipitridae (Hawks, Eagles, Kites, Harriers, and Old World Vultures)",117,415,35,,Accipitridae
-Alismatales,Araceae (Arum/Aroids),23,64,13,,Araceae
-Alismatales,Potamogetonaceae (Pondweeds),20,41,4,,Potamogetonaceae
-Anseriformes,Anatidae (Ducks),120,635,38,,Anatidae
-Anura,Bufonidae (True Toads),26,48,16,,Bufonidae
-Anura,Hylidae (Tree Frogs and Allies),47,60,11,,Hylidae
-Anura,Limnodynastidae (Australian Ground Frogs),18,18,1,,Limnodynastidae
-Anura,Myobatrachidae (Australian Water Frogs),36,36,1,,Myobatrachidae
-Anura,Ranidae (True Frogs),28,53,12,,Ranidae
-Apiales,"Apiaceae (Umbellifers; Celeries, Carrots, and Parsleys)",133,321,16,,Apiaceae
-Apiales,Araliaceae (No common name),24,34,9,,Araliaceae
-Apiales,Pittosporaceae (Cheesewoods),11,13,4,,Pittosporaceae
-Apodiformes,Apodidae (Swifts),17,33,12,,Apodidae
-Apodiformes,Trochilidae (Hummingbirds),74,102,11,,Trochilidae
-Aquifoliales,Aquifoliaceae (Hollies),11,19,4,,Aquifoliaceae
-Araneae,Araneidae (Orb-weaver Spiders),50,104,13,,Araneidae
-Araneae,Clubionidae (Sac Spiders),10,11,2,,Clubionidae
-Araneae,Dictynidae (No common name),10,11,2,,Dictynidae
-Araneae,Linyphiidae (Sheet-weaving Spiders),103,150,7,,Linyphiidae
-Araneae,Lycosidae (Wolf Spiders),36,52,5,,Lycosidae
-Araneae,Philodromidae (Running Crab Spiders),11,17,3,,Philodromidae
-Araneae,Salticidae (Jumping Spiders),47,82,12,,Salticidae
-Araneae,Tetragnathidae (Long-jawed Orb-weaving Spiders),14,30,4,,Tetragnathidae
-Araneae,Theridiidae (Tangle-web Spiders),39,68,11,,Theridiidae
-Araneae,Thomisidae (Crab Spiders),22,37,6,,Thomisidae
-Arecales,Arecaceae (Palm Trees),18,29,9,,Arecaceae
-Artiodactyla,Bovidae (Cows),42,76,12,,Bovidae
-Artiodactyla,Cervidae (Deer),16,51,15,,Cervidae
-Asparagales,Amaryllidaceae (No common name),42,107,12,,Amaryllidaceae
-Asparagales,Asparagaceae (Asparagus),80,188,17,,Asparagaceae
-Asparagales,Asphodelaceae (No common name),24,34,7,,Asphodelaceae
-Asparagales,Iridaceae (Irises),33,60,11,,Iridaceae
-Asparagales,Orchidaceae (Orchids),91,222,14,,Orchidaceae
-Asterales,Asteraceae (Asters),622,1647,27,,Asteraceae
-Asterales,Campanulaceae (Bellflowers),59,125,12,,Campanulaceae
-Asterales,Goodeniaceae (Fanflowers),15,15,1,,Goodeniaceae
-Boraginales,Boraginaceae (Borages or Forget-me-nots),64,168,15,,Boraginaceae
-Brassicales,"Brassicaceae (Mustards, Crucifers, Cabbages)",167,459,19,,Brassicaceae
-Bucerotiformes,Bucerotidae (Hornbills),16,24,7,,Bucerotidae
-Carnivora,Canidae (Wolves),12,41,14,,Canidae
-Carnivora,"Mustelidae (Weasels, Badgers, Otters, Ferrets, Martens, Minks, and Wolverines)",12,35,8,,Mustelidae
-Carnivora,Phocidae (Earless Seals),10,19,8,,Phocidae
-Caryophyllales,Amaranthaceae (Amaranths),136,244,19,,Amaranthaceae
-Caryophyllales,Caryophyllaceae (Pinks or Carnations),128,356,18,,Caryophyllaceae
-Caryophyllales,Plumbaginaceae (Leadworts or Plumbagos),14,27,8,,Plumbaginaceae
-Caryophyllales,Polygonaceae,77,222,19,,Polygonaceae
-Caudata,Plethodontidae,24,25,3,,Plethodontidae
-Caudata,Salamandridae,14,27,6,,Salamandridae
-Celastrales,Celastraceae,21,45,13,,Celastraceae
-Cetacea,Delphinidae,14,40,10,,Delphinidae
-Charadriiformes,Alcidae,10,34,8,,Alcidae
-Charadriiformes,Charadriidae,46,173,30,,Charadriidae
-Charadriiformes,Laridae,72,318,37,,Laridae
-Charadriiformes,Scolopacidae,60,468,35,,Scolopacidae
-Chiroptera,Vespertilionidae,45,74,7,,Vespertilionidae
-Ciconiiformes,Ciconiidae,16,48,16,,Ciconiidae
-Coleoptera,Aphodiidae,10,19,3,,Aphodiidae
-Coleoptera,Apionidae,16,28,3,,Apionidae
-Coleoptera,Buprestidae,14,16,2,,Buprestidae
-Coleoptera,Cantharidae,27,58,5,,Cantharidae
-Coleoptera,Carabidae,238,396,10,,Carabidae
-Coleoptera,Cerambycidae,98,175,6,,Cerambycidae
-Coleoptera,Chrysomelidae,67,105,5,,Chrysomelidae
-Coleoptera,Coccinellidae,38,125,18,,Coccinellidae
-Coleoptera,Curculionidae,116,201,6,,Curculionidae
-Coleoptera,Dytiscidae,16,30,3,,Dytiscidae
-Coleoptera,Elateridae,30,53,3,,Elateridae
-Coleoptera,Hydrophilidae,16,22,3,,Hydrophilidae
-Coleoptera,Latridiidae,10,15,3,,Latridiidae
-Coleoptera,Leiodidae,10,10,2,,Leiodidae
-Coleoptera,Nitidulidae,14,23,3,,Nitidulidae
-Coleoptera,Scarabaeidae,20,20,4,,Scarabaeidae
-Coleoptera,Silphidae,14,25,5,,Silphidae
-Coleoptera,Staphylinidae,148,245,3,,Staphylinidae
-Coleoptera,Tenebrionidae,13,19,3,,Tenebrionidae
-Collembola,Entomobryidae,12,19,3,,Entomobryidae
-Columbiformes,Columbidae,82,217,36,,Columbidae
-Coraciiformes,Alcedinidae,31,92,21,,Alcedinidae
-Coraciiformes,Meropidae,17,45,11,,Meropidae
-Cornales,Cornaceae,14,38,12,,Cornaceae
-Cuculiformes,Cuculidae,42,73,19,,Cuculidae
-Cucurbitales,Cucurbitaceae,13,29,7,,Cucurbitaceae
-Cypriniformes,Cyprinidae,52,93,11,,Cyprinidae
-Dasyuromorphia,Dasyuridae,23,23,1,,Dasyuridae
-Diprotodontia,Macropodidae,17,17,1,,Macropodidae
-Dipsacales,Adoxaceae,19,66,13,,Adoxaceae
-Dipsacales,Caprifoliaceae,59,145,13,,Caprifoliaceae
-Diptera,Anthomyiidae,16,16,1,,Anthomyiidae
-Diptera,Asilidae,19,34,3,,Asilidae
-Diptera,Bombyliidae,13,19,3,,Bombyliidae
-Diptera,Calliphoridae,11,23,3,,Calliphoridae
-Diptera,Chironomidae,14,14,1,,Chironomidae
-Diptera,Dolichopodidae,19,36,3,,Dolichopodidae
-Diptera,Empididae,14,20,3,,Empididae
-Diptera,Hybotidae,14,17,2,,Hybotidae
-Diptera,Lauxaniidae,12,15,2,,Lauxaniidae
-Diptera,Limoniidae,45,49,2,,Limoniidae
-Diptera,Muscidae,34,54,4,,Muscidae
-Diptera,Sarcophagidae,10,13,2,,Sarcophagidae
-Diptera,Sciomyzidae,16,22,3,,Sciomyzidae
-Diptera,Stratiomyidae,24,30,3,,Stratiomyidae
-Diptera,Syrphidae,140,303,10,,Syrphidae
-Diptera,Tabanidae,15,27,3,,Tabanidae
-Diptera,Tachinidae,44,61,3,,Tachinidae
-Diptera,Tephritidae,18,24,3,,Tephritidae
-Diptera,Tipulidae,27,42,3,,Tipulidae
-Ephemeroptera,Baetidae,10,21,3,,Baetidae
-Ericales,Ericaceae,129,271,17,,Ericaceae
-Ericales,Polemoniaceae,17,29,7,,Polemoniaceae
-Ericales,Primulaceae,51,123,17,,Primulaceae
-Fabales,Fabaceae,420,952,30,,Fabaceae
-Fabales,Polygalaceae,19,32,8,,Polygalaceae
-Fagales,Betulaceae,27,84,14,,Betulaceae
-Fagales,Fagaceae,65,124,11,,Fagaceae
-Falconiformes,Falconidae,34,119,28,,Falconidae
-Galliformes,Cracidae,12,13,3,,Cracidae
-Galliformes,Phasianidae,50,120,27,,Phasianidae
-Gentianales,Apocynaceae,40,103,18,,Apocynaceae
-Gentianales,Gentianaceae,38,77,11,,Gentianaceae
-Gentianales,Rubiaceae,79,176,19,,Rubiaceae
-Geraniales,Geraniaceae,37,130,17,,Geraniaceae
-Gruiformes,Rallidae,37,126,28,,Rallidae
-Hemiptera,Cicadellidae,10,14,2,,Cicadellidae
-Hemiptera,Miridae,52,95,4,,Miridae
-Hemiptera,Pentatomidae,20,58,9,,Pentatomidae
-Hemiptera,Rhyparochromidae,10,18,3,,Rhyparochromidae
-Hymenoptera,Andrenidae,55,103,6,,Andrenidae
-Hymenoptera,Apidae,101,244,20,,Apidae
-Hymenoptera,Colletidae,17,30,5,,Colletidae
-Hymenoptera,Eumenidae,10,28,6,,Eumenidae
-Hymenoptera,Formicidae,48,84,10,,Formicidae
-Hymenoptera,Halictidae,65,134,8,,Halictidae
-Hymenoptera,Megachilidae,34,67,7,,Megachilidae
-Lagomorpha,Leporidae,15,43,13,,Leporidae
-Lamiales,Bignoniaceae,14,35,11,,Bignoniaceae
-Lamiales,Lamiaceae,158,452,19,,Lamiaceae
-Lamiales,Lentibulariaceae,11,21,5,,Lentibulariaceae
-Lamiales,Oleaceae,35,91,15,,Oleaceae
-Lamiales,Orobanchaceae,69,129,12,,Orobanchaceae
-Lamiales,Phrymaceae,10,13,4,,Phrymaceae
-Lamiales,Plantaginaceae,118,356,22,,Plantaginaceae
-Lamiales,Scrophulariaceae,38,82,13,,Scrophulariaceae
-Lamiales,Verbenaceae,13,60,19,,Verbenaceae
-Laurales,Lauraceae,13,18,5,,Lauraceae
-Lepidoptera,Arctiidae,18,38,4,,Arctiidae
-Lepidoptera,Crambidae,32,63,8,,Crambidae
-Lepidoptera,Drepanidae,22,43,5,,Drepanidae
-Lepidoptera,Erebidae,124,275,10,,Erebidae
-Lepidoptera,Geometridae,415,878,9,,Geometridae
-Lepidoptera,Hesperiidae,115,224,17,,Hesperiidae
-Lepidoptera,Lasiocampidae,20,48,9,,Lasiocampidae
-Lepidoptera,Limacodidae,11,15,2,,Limacodidae
-Lepidoptera,Lycaenidae,168,371,22,,Lycaenidae
-Lepidoptera,Noctuidae,463,966,14,,Noctuidae
-Lepidoptera,Nolidae,10,22,3,,Nolidae
-Lepidoptera,Notodontidae,55,98,7,,Notodontidae
-Lepidoptera,Nymphalidae,340,794,33,,Nymphalidae
-Lepidoptera,Papilionidae,51,106,17,,Papilionidae
-Lepidoptera,Pieridae,94,231,24,,Pieridae
-Lepidoptera,Saturniidae,17,36,7,,Saturniidae
-Lepidoptera,Sesiidae,13,17,3,,Sesiidae
-Lepidoptera,Sphingidae,56,132,14,,Sphingidae
-Lepidoptera,Tortricidae,36,69,7,,Tortricidae
-Lepidoptera,Zygaenidae,11,25,4,,Zygaenidae
-Liliales,Liliaceae,25,56,10,,Liliaceae
-Liliales,Melanthiaceae,10,17,6,,Melanthiaceae
-Lycopodiales,Lycopodiaceae,11,27,6,,Lycopodiaceae
-Malpighiales,Euphorbiaceae,70,187,22,,Euphorbiaceae
-Malpighiales,Hypericaceae,26,61,12,,Hypericaceae
-Malpighiales,Linaceae,15,27,6,,Linaceae
-Malpighiales,Phyllanthaceae,10,12,3,,Phyllanthaceae
-Malpighiales,Salicaceae,57,138,13,,Salicaceae
-Malpighiales,Violaceae,44,101,13,,Violaceae
-Malvales,Cistaceae,34,44,3,,Cistaceae
-Malvales,Malvaceae,69,174,20,,Malvaceae
-Malvales,Thymelaeaceae,15,23,5,,Thymelaeaceae
-Musophagiformes,Musophagidae,13,15,4,,Musophagidae
-Myrtales,Lythraceae,10,35,12,,Lythraceae
-Myrtales,Myrtaceae,123,131,7,,Myrtaceae
-Myrtales,Onagraceae,45,105,13,,Onagraceae
-NA,Planorbidae,11,20,2,,Planorbidae
-Odonata,Aeshnidae,37,84,13,,Aeshnidae
-Odonata,Calopterygidae,10,24,9,,Calopterygidae
-Odonata,Coenagrionidae,74,166,16,,Coenagrionidae
-Odonata,Corduliidae,16,30,7,,Corduliidae
-Odonata,Gomphidae,29,48,7,,Gomphidae
-Odonata,Lestidae,20,41,9,,Lestidae
-Odonata,Libellulidae,144,372,27,,Libellulidae
-Orthoptera,Acrididae,89,180,14,,Acrididae
-Orthoptera,Gryllidae,10,15,4,,Gryllidae
-Orthoptera,Tettigoniidae,31,74,7,,Tettigoniidae
-Otidiformes,Otididae,12,19,5,,Otididae
-Oxalidales,Oxalidaceae,12,53,15,,Oxalidaceae
-Passeriformes,"Acanthizidae (Bristlebirds, Paradalotes, and Australian Warblers)",37,37,2,,Acanthizidae
-Passeriformes,Acrocephalidae,16,52,10,,Acrocephalidae
-Passeriformes,Alaudidae,28,72,14,,Alaudidae
-Passeriformes,Campephagidae,16,17,4,,Campephagidae
-Passeriformes,Cardinalidae,27,76,10,,Cardinalidae
-Passeriformes,Cisticolidae,29,45,10,,Cisticolidae
-Passeriformes,Corvidae,61,189,37,,Corvidae
-Passeriformes,Cotingidae,16,16,3,,Cotingidae
-Passeriformes,Dicruridae,10,16,4,,Dicruridae
-Passeriformes,Emberizidae,73,234,26,,Emberizidae
-Passeriformes,Estrildidae,41,62,10,,Estrildidae
-Passeriformes,Fringillidae,68,217,28,,Fringillidae
-Passeriformes,Furnariidae,24,25,4,,Furnariidae
-Passeriformes,Hirundinidae,44,141,30,,Hirundinidae
-Passeriformes,Icteridae,52,130,13,,Icteridae
-Passeriformes,Laniidae,23,82,21,,Laniidae
-Passeriformes,Leiothrichidae,21,21,5,,Leiothrichidae
-Passeriformes,Malaconotidae,15,21,4,,Malaconotidae
-Passeriformes,Maluridae,12,12,1,,Maluridae
-Passeriformes,Meliphagidae,53,55,3,,Meliphagidae
-Passeriformes,Mimidae,18,42,11,,Mimidae
-Passeriformes,Monarchidae,14,15,4,,Monarchidae
-Passeriformes,Motacillidae,29,134,24,,Motacillidae
-Passeriformes,Muscicapidae,101,255,23,,Muscicapidae
-Passeriformes,Nectariniidae,33,51,9,,Nectariniidae
-Passeriformes,Pachycephalidae,12,13,2,,Pachycephalidae
-Passeriformes,Paridae,24,72,17,,Paridae
-Passeriformes,Parulidae,62,206,13,,Parulidae
-Passeriformes,Passeridae,23,71,21,,Passeridae
-Passeriformes,Petroicidae,18,18,2,,Petroicidae
-Passeriformes,Phylloscopidae,18,56,10,,Phylloscopidae
-Passeriformes,Pipridae,10,10,2,,Pipridae
-Passeriformes,Ploceidae,36,52,6,,Ploceidae
-Passeriformes,Pycnonotidae,34,57,11,,Pycnonotidae
-Passeriformes,Sittidae,11,30,11,,Sittidae
-Passeriformes,Sturnidae,43,92,20,,Sturnidae
-Passeriformes,Sylviidae,21,67,11,,Sylviidae
-Passeriformes,Thamnophilidae,14,15,2,,Thamnophilidae
-Passeriformes,Thraupidae,92,130,9,,Thraupidae
-Passeriformes,Troglodytidae,25,60,9,,Troglodytidae
-Passeriformes,Turdidae,55,143,27,,Turdidae
-Passeriformes,Tyrannidae,89,196,13,,Tyrannidae
-Passeriformes,Vireonidae,14,38,8,,Vireonidae
-Passeriformes,Zosteropidae,12,12,6,,Zosteropidae
-Pelecaniformes,Ardeidae,47,315,39,,Ardeidae
-Pelecaniformes,Threskiornithidae,25,84,24,,Threskiornithidae
-Perciformes,Centrarchidae,15,37,5,,Centrarchidae
-Perciformes,Gobiidae,14,25,3,,Gobiidae
-Perciformes,Labridae,13,26,6,,Labridae
-Perciformes,Sparidae,15,17,3,,Sparidae
-Piciformes,Picidae,67,150,25,,Picidae
-Piciformes,Ramphastidae,48,66,13,,Ramphastidae
-Pinales,Cupressaceae,33,74,14,,Cupressaceae
-Pinales,Pinaceae,70,171,18,,Pinaceae
-Poales,Cyperaceae,214,423,12,,Cyperaceae
-Poales,Juncaceae,54,128,8,,Juncaceae
-Poales,Poaceae,432,1041,20,,Poaceae
-Poales,Typhaceae,12,32,7,,Typhaceae
-Podicipediformes,Podicipedidae,14,78,21,,Podicipedidae
-Polypodiales,Aspleniaceae,14,42,8,,Aspleniaceae
-Polypodiales,Dryopteridaceae,16,46,8,,Dryopteridaceae
-Primates,Cercopithecidae,21,33,8,,Cercopithecidae
-Procellariiformes,Procellariidae,26,55,13,,Procellariidae
-Proteales,Proteaceae,64,65,2,,Proteaceae
-Psittaciformes,Psittacidae,81,104,20,,Psittacidae
-Ranunculales,Papaveraceae,39,112,18,,Papaveraceae
-Ranunculales,Ranunculaceae,119,302,16,,Ranunculaceae
-Rodentia,Cricetidae,51,94,15,,Cricetidae
-Rodentia,Heteromyidae,14,19,3,,Heteromyidae
-Rodentia,Muridae,36,69,13,,Muridae
-Rodentia,Sciuridae,58,105,20,,Sciuridae
-Rosales,Cannabaceae,10,24,9,,Cannabaceae
-Rosales,Moraceae,18,48,11,,Moraceae
-Rosales,Rhamnaceae,39,63,12,,Rhamnaceae
-Rosales,Rosaceae,257,707,19,,Rosaceae
-Rosales,Ulmaceae,10,22,7,,Ulmaceae
-Rosales,Urticaceae,13,43,12,,Urticaceae
-Salmoniformes,Salmonidae,14,38,7,,Salmonidae
-Santalales,Santalaceae,16,26,8,,Santalaceae
-Sapindales,Anacardiaceae,36,86,18,,Anacardiaceae
-Sapindales,Rutaceae,30,42,9,,Rutaceae
-Sapindales,Sapindaceae,38,106,15,,Sapindaceae
-Saxifragales,Crassulaceae,42,104,13,,Crassulaceae
-Saxifragales,Grossulariaceae,18,42,9,,Grossulariaceae
-Saxifragales,Haloragaceae,12,19,5,,Haloragaceae
-Saxifragales,Saxifragaceae,38,73,9,,Saxifragaceae
-Solanales,Convolvulaceae,25,73,16,,Convolvulaceae
-Solanales,Solanaceae,52,176,23,,Solanaceae
-Soricomorpha,Soricidae,14,25,7,,Soricidae
-Squamata,Agamidae,32,34,5,,Agamidae
-Squamata,Colubridae,50,81,14,,Colubridae
-Squamata,Dactyloidae,14,19,4,,Dactyloidae
-Squamata,Diplodactylidae,20,20,1,,Diplodactylidae
-Squamata,Elapidae,27,27,2,,Elapidae
-Squamata,Gekkonidae,24,37,10,,Gekkonidae
-Squamata,Lacertidae,37,53,6,,Lacertidae
-Squamata,Natricidae,25,55,12,,Natricidae
-Squamata,Phrynosomatidae,39,69,6,,Phrynosomatidae
-Squamata,Pygopodidae,10,10,1,,Pygopodidae
-Squamata,Scincidae,112,120,11,,Scincidae
-Squamata,Varanidae,13,14,3,,Varanidae
-Squamata,Viperidae,27,40,12,,Viperidae
-Strigiformes,Strigidae,42,106,26,,Strigidae
-Suliformes,Phalacrocoracidae,19,51,20,,Phalacrocoracidae
-Syngnathiformes,Syngnathidae,10,12,4,,Syngnathidae
-Testudines,Emydidae,11,29,8,,Emydidae
-Trichoptera,Limnephilidae,10,21,3,,Limnephilidae
-Trogoniformes,Trogonidae,14,14,4,,Trogonidae
-Vitales,Vitaceae,11,29,8,,Vitaceae
+Order,Family,sp_count,obs_count,bio_count,fam
+Accipitriformes,"Accipitridae (Hawks, Eagles, Kites, Harriers, and Old World Vultures)",117,415,35,Accipitridae
+Alismatales,Araceae (Arum/Aroids),23,64,13,Araceae
+Alismatales,Potamogetonaceae (Pondweeds),20,41,4,Potamogetonaceae
+Anseriformes,Anatidae (Ducks),120,635,38,Anatidae
+Anura,Bufonidae (True Toads),26,48,16,Bufonidae
+Anura,Hylidae (Tree Frogs and Allies),47,60,11,Hylidae
+Anura,Limnodynastidae (Australian Ground Frogs),18,18,1,Limnodynastidae
+Anura,Myobatrachidae (Australian Water Frogs),36,36,1,Myobatrachidae
+Anura,Ranidae (True Frogs),28,53,12,Ranidae
+Apiales,"Apiaceae (Umbellifers; Celeries, Carrots, and Parsleys)",133,321,16,Apiaceae
+Apiales,Araliaceae (No common name),24,34,9,Araliaceae
+Apiales,Pittosporaceae (Cheesewoods),11,13,4,Pittosporaceae
+Apodiformes,Apodidae (Swifts),17,33,12,Apodidae
+Apodiformes,Trochilidae (Hummingbirds),74,102,11,Trochilidae
+Aquifoliales,Aquifoliaceae (Hollies),11,19,4,Aquifoliaceae
+Araneae,Araneidae (Orb-weaver Spiders),50,104,13,Araneidae
+Araneae,Clubionidae (Sac Spiders),10,11,2,Clubionidae
+Araneae,Dictynidae (No common name),10,11,2,Dictynidae
+Araneae,Linyphiidae (Sheet-weaving Spiders),103,150,7,Linyphiidae
+Araneae,Lycosidae (Wolf Spiders),36,52,5,Lycosidae
+Araneae,Philodromidae (Running Crab Spiders),11,17,3,Philodromidae
+Araneae,Salticidae (Jumping Spiders),47,82,12,Salticidae
+Araneae,Tetragnathidae (Long-jawed Orb-weaving Spiders),14,30,4,Tetragnathidae
+Araneae,Theridiidae (Tangle-web Spiders),39,68,11,Theridiidae
+Araneae,Thomisidae (Crab Spiders),22,37,6,Thomisidae
+Arecales,Arecaceae (Palm Trees),18,29,9,Arecaceae
+Artiodactyla,Bovidae (Cows),42,76,12,Bovidae
+Artiodactyla,Cervidae (Deer),16,51,15,Cervidae
+Asparagales,Amaryllidaceae (No common name),42,107,12,Amaryllidaceae
+Asparagales,Asparagaceae (Asparagus),80,188,17,Asparagaceae
+Asparagales,Asphodelaceae (No common name),24,34,7,Asphodelaceae
+Asparagales,Iridaceae (Irises),33,60,11,Iridaceae
+Asparagales,Orchidaceae (Orchids),91,222,14,Orchidaceae
+Asterales,Asteraceae (Asters),622,1647,27,Asteraceae
+Asterales,Campanulaceae (Bellflowers),59,125,12,Campanulaceae
+Asterales,Goodeniaceae (Fanflowers),15,15,1,Goodeniaceae
+Boraginales,Boraginaceae (Borages or Forget-me-nots),64,168,15,Boraginaceae
+Brassicales,"Brassicaceae (Mustards, Crucifers, Cabbages)",167,459,19,Brassicaceae
+Bucerotiformes,Bucerotidae (Hornbills),16,24,7,Bucerotidae
+Carnivora,Canidae (Wolves),12,41,14,Canidae
+Carnivora,"Mustelidae (Weasels, Badgers, Otters, Ferrets, Martens, Minks, and Wolverines)",12,35,8,Mustelidae
+Carnivora,Phocidae (Earless Seals),10,19,8,Phocidae
+Caryophyllales,Amaranthaceae (Amaranths),136,244,19,Amaranthaceae
+Caryophyllales,Caryophyllaceae (Pinks or Carnations),128,356,18,Caryophyllaceae
+Caryophyllales,Plumbaginaceae (Leadworts or Plumbagos),14,27,8,Plumbaginaceae
+Caryophyllales,Polygonaceae (Knotsweeds or Smartweed-buckwheats),77,222,19,Polygonaceae
+Caudata,Plethodontidae (Lungless Salamanders),24,25,3,Plethodontidae
+Caudata,Salamandridae (True Salamanders and Newts),14,27,6,Salamandridae
+Celastrales,Celastraceae (Staff Vines or Bittersweets),21,45,13,Celastraceae
+Cetacea,"Delphinidae (Oceanic Dolphins, Porpoises, and Relatives)",14,40,10,Delphinidae
+Charadriiformes,"Alcidae (Auks, Auklets, Dovekies, Guillemots, and others)",10,34,8,Alcidae
+Charadriiformes,"Charadriidae (Plovers, Dotterels, and Lapwings)",46,173,30,Charadriidae
+Charadriiformes,Laridae (Gulls and Terns),72,318,37,Laridae
+Charadriiformes,"Scolopacidae (Woodcocks, Snipes, Sandpipers, and others)",60,468,35,Scolopacidae
+Chiroptera,"Vespertilionidae (Common, Vesper, or Simple-nosed Bats)",45,74,7,Vespertilionidae
+Ciconiiformes,Ciconiidae (Storks),16,48,16,Ciconiidae
+Coleoptera,Aphodiidae (Small Dung Beetles),10,19,3,Aphodiidae
+Coleoptera,Apionidae (Sand Weevils),16,28,3,Apionidae
+Coleoptera,Buprestidae (Metallic Wood-boring Beetles),14,16,2,Buprestidae
+Coleoptera,Cantharidae (Soldier Beetles),27,58,5,Cantharidae
+Coleoptera,Carabidae (Ground Beetles),238,396,10,Carabidae
+Coleoptera,Cerambycidae (Longhorn Beetles),98,175,6,Cerambycidae
+Coleoptera,Chrysomelidae (Leaf Beetles),67,105,5,Chrysomelidae
+Coleoptera,Coccinellidae (Ladybugs or Ladybirds),38,125,18,Coccinellidae
+Coleoptera,"Curculionidae (""True"" Weevils)",116,201,6,Curculionidae
+Coleoptera,Dytiscidae (Diving Beetles),16,30,3,Dytiscidae
+Coleoptera,Elateridae (Click Beetles),30,53,3,Elateridae
+Coleoptera,Hydrophilidae (Water Scavenger Beetles),16,22,3,Hydrophilidae
+Coleoptera,Latridiidae (Minute Brown Scavenger Beetles or Fungus Beetles),10,15,3,Latridiidae
+Coleoptera,Leiodidae (Round Fungus Beetles),10,10,2,Leiodidae
+Coleoptera,Nitidulidae (Sap Beetles),14,23,3,Nitidulidae
+Coleoptera,Scarabaeidae (Scarab Beetles,20,20,4,Scarabaeidae
+Coleoptera,"Silphidae (Large Carrion Beetles, Carrion Beetles, or Burying Beetles)",14,25,5,Silphidae
+Coleoptera,Staphylinidae (Rove Beetles),148,245,3,Staphylinidae
+Coleoptera,Tenebrionidae (Darkling Beetles),13,19,3,Tenebrionidae
+Collembola,Entomobryidae (Slender Springtails),12,19,3,Entomobryidae
+Columbiformes,Columbidae (Pidgeons and Doves),82,217,36,Columbidae
+Coraciiformes,Alcedinidae (Kingfishers),31,92,21,Alcedinidae
+Coraciiformes,Meropidae (Bee-eaters),17,45,11,Meropidae
+Cornales,Cornaceae (Dogwoods),14,38,12,Cornaceae
+Cuculiformes,Cuculidae (Cuckoos),42,73,19,Cuculidae
+Cucurbitales,Cucurbitaceae (Gourds),13,29,7,Cucurbitaceae
+Cypriniformes,Cyprinidae (Carp or Minnows),52,93,11,Cyprinidae
+Dasyuromorphia,Dasyuridae (No Common Name),23,23,1,Dasyuridae
+Diprotodontia,"Macropodidae (Kangaroos, Wallabies, and others)",17,17,1,Macropodidae
+Dipsacales,Adoxaceae (Moschatels),19,66,13,Adoxaceae
+Dipsacales,Caprifoliaceae (Honeysuckles),59,145,13,Caprifoliaceae
+Diptera,Anthomyiidae (Root-maggot Flies),16,16,1,Anthomyiidae
+Diptera,Asilidae,19,34,3,Asilidae
+Diptera,Bombyliidae,13,19,3,Bombyliidae
+Diptera,Calliphoridae,11,23,3,Calliphoridae
+Diptera,Chironomidae,14,14,1,Chironomidae
+Diptera,Dolichopodidae,19,36,3,Dolichopodidae
+Diptera,Empididae,14,20,3,Empididae
+Diptera,Hybotidae,14,17,2,Hybotidae
+Diptera,Lauxaniidae,12,15,2,Lauxaniidae
+Diptera,Limoniidae,45,49,2,Limoniidae
+Diptera,Muscidae,34,54,4,Muscidae
+Diptera,Sarcophagidae,10,13,2,Sarcophagidae
+Diptera,Sciomyzidae,16,22,3,Sciomyzidae
+Diptera,Stratiomyidae,24,30,3,Stratiomyidae
+Diptera,Syrphidae,140,303,10,Syrphidae
+Diptera,Tabanidae,15,27,3,Tabanidae
+Diptera,Tachinidae,44,61,3,Tachinidae
+Diptera,Tephritidae,18,24,3,Tephritidae
+Diptera,Tipulidae,27,42,3,Tipulidae
+Ephemeroptera,Baetidae,10,21,3,Baetidae
+Ericales,Ericaceae,129,271,17,Ericaceae
+Ericales,Polemoniaceae,17,29,7,Polemoniaceae
+Ericales,Primulaceae,51,123,17,Primulaceae
+Fabales,Fabaceae,420,952,30,Fabaceae
+Fabales,Polygalaceae,19,32,8,Polygalaceae
+Fagales,Betulaceae,27,84,14,Betulaceae
+Fagales,Fagaceae,65,124,11,Fagaceae
+Falconiformes,Falconidae,34,119,28,Falconidae
+Galliformes,Cracidae,12,13,3,Cracidae
+Galliformes,Phasianidae,50,120,27,Phasianidae
+Gentianales,Apocynaceae,40,103,18,Apocynaceae
+Gentianales,Gentianaceae,38,77,11,Gentianaceae
+Gentianales,Rubiaceae,79,176,19,Rubiaceae
+Geraniales,Geraniaceae,37,130,17,Geraniaceae
+Gruiformes,Rallidae,37,126,28,Rallidae
+Hemiptera,Cicadellidae,10,14,2,Cicadellidae
+Hemiptera,Miridae,52,95,4,Miridae
+Hemiptera,Pentatomidae,20,58,9,Pentatomidae
+Hemiptera,Rhyparochromidae,10,18,3,Rhyparochromidae
+Hymenoptera,Andrenidae,55,103,6,Andrenidae
+Hymenoptera,Apidae,101,244,20,Apidae
+Hymenoptera,Colletidae,17,30,5,Colletidae
+Hymenoptera,Eumenidae,10,28,6,Eumenidae
+Hymenoptera,Formicidae,48,84,10,Formicidae
+Hymenoptera,Halictidae,65,134,8,Halictidae
+Hymenoptera,Megachilidae,34,67,7,Megachilidae
+Lagomorpha,Leporidae,15,43,13,Leporidae
+Lamiales,Bignoniaceae,14,35,11,Bignoniaceae
+Lamiales,Lamiaceae,158,452,19,Lamiaceae
+Lamiales,Lentibulariaceae,11,21,5,Lentibulariaceae
+Lamiales,Oleaceae,35,91,15,Oleaceae
+Lamiales,Orobanchaceae,69,129,12,Orobanchaceae
+Lamiales,Phrymaceae,10,13,4,Phrymaceae
+Lamiales,Plantaginaceae,118,356,22,Plantaginaceae
+Lamiales,Scrophulariaceae,38,82,13,Scrophulariaceae
+Lamiales,Verbenaceae,13,60,19,Verbenaceae
+Laurales,Lauraceae,13,18,5,Lauraceae
+Lepidoptera,Arctiidae,18,38,4,Arctiidae
+Lepidoptera,Crambidae,32,63,8,Crambidae
+Lepidoptera,Drepanidae,22,43,5,Drepanidae
+Lepidoptera,Erebidae,124,275,10,Erebidae
+Lepidoptera,Geometridae,415,878,9,Geometridae
+Lepidoptera,Hesperiidae (Skippers),115,224,17,Hesperiidae
+Lepidoptera,Lasiocampidae,20,48,9,Lasiocampidae
+Lepidoptera,Limacodidae,11,15,2,Limacodidae
+Lepidoptera,Lycaenidae,168,371,22,Lycaenidae
+Lepidoptera,Noctuidae,463,966,14,Noctuidae
+Lepidoptera,Nolidae,10,22,3,Nolidae
+Lepidoptera,Notodontidae,55,98,7,Notodontidae
+Lepidoptera,Nymphalidae (Brush-foots),340,794,33,Nymphalidae
+Lepidoptera,Papilionidae (Swallowtails and Parnassians),51,106,17,Papilionidae
+Lepidoptera,Pieridae (Whites and Sulphurs),94,231,24,Pieridae
+Lepidoptera,Saturniidae,17,36,7,Saturniidae
+Lepidoptera,Sesiidae,13,17,3,Sesiidae
+Lepidoptera,Sphingidae,56,132,14,Sphingidae
+Lepidoptera,Tortricidae,36,69,7,Tortricidae
+Lepidoptera,Zygaenidae,11,25,4,Zygaenidae
+Liliales,Liliaceae,25,56,10,Liliaceae
+Liliales,Melanthiaceae,10,17,6,Melanthiaceae
+Lycopodiales,Lycopodiaceae,11,27,6,Lycopodiaceae
+Malpighiales,Euphorbiaceae,70,187,22,Euphorbiaceae
+Malpighiales,Hypericaceae,26,61,12,Hypericaceae
+Malpighiales,Linaceae,15,27,6,Linaceae
+Malpighiales,Phyllanthaceae,10,12,3,Phyllanthaceae
+Malpighiales,Salicaceae,57,138,13,Salicaceae
+Malpighiales,Violaceae,44,101,13,Violaceae
+Malvales,Cistaceae,34,44,3,Cistaceae
+Malvales,Malvaceae,69,174,20,Malvaceae
+Malvales,Thymelaeaceae,15,23,5,Thymelaeaceae
+Musophagiformes,Musophagidae,13,15,4,Musophagidae
+Myrtales,Lythraceae,10,35,12,Lythraceae
+Myrtales,Myrtaceae,123,131,7,Myrtaceae
+Myrtales,Onagraceae,45,105,13,Onagraceae
+NA,Planorbidae,11,20,2,Planorbidae
+Odonata,Aeshnidae,37,84,13,Aeshnidae
+Odonata,Calopterygidae,10,24,9,Calopterygidae
+Odonata,Coenagrionidae,74,166,16,Coenagrionidae
+Odonata,Corduliidae,16,30,7,Corduliidae
+Odonata,Gomphidae,29,48,7,Gomphidae
+Odonata,Lestidae,20,41,9,Lestidae
+Odonata,Libellulidae,144,372,27,Libellulidae
+Orthoptera,Acrididae,89,180,14,Acrididae
+Orthoptera,Gryllidae,10,15,4,Gryllidae
+Orthoptera,Tettigoniidae,31,74,7,Tettigoniidae
+Otidiformes,Otididae,12,19,5,Otididae
+Oxalidales,Oxalidaceae,12,53,15,Oxalidaceae
+Passeriformes,"Acanthizidae (Bristlebirds, Paradalotes, and Australian Warblers)",37,37,2,Acanthizidae
+Passeriformes,Acrocephalidae,16,52,10,Acrocephalidae
+Passeriformes,Alaudidae,28,72,14,Alaudidae
+Passeriformes,Campephagidae,16,17,4,Campephagidae
+Passeriformes,Cardinalidae,27,76,10,Cardinalidae
+Passeriformes,Cisticolidae,29,45,10,Cisticolidae
+Passeriformes,Corvidae,61,189,37,Corvidae
+Passeriformes,Cotingidae,16,16,3,Cotingidae
+Passeriformes,Dicruridae,10,16,4,Dicruridae
+Passeriformes,Emberizidae,73,234,26,Emberizidae
+Passeriformes,Estrildidae,41,62,10,Estrildidae
+Passeriformes,Fringillidae,68,217,28,Fringillidae
+Passeriformes,Furnariidae,24,25,4,Furnariidae
+Passeriformes,Hirundinidae,44,141,30,Hirundinidae
+Passeriformes,Icteridae,52,130,13,Icteridae
+Passeriformes,Laniidae,23,82,21,Laniidae
+Passeriformes,Leiothrichidae,21,21,5,Leiothrichidae
+Passeriformes,Malaconotidae,15,21,4,Malaconotidae
+Passeriformes,Maluridae,12,12,1,Maluridae
+Passeriformes,Meliphagidae,53,55,3,Meliphagidae
+Passeriformes,Mimidae,18,42,11,Mimidae
+Passeriformes,Monarchidae,14,15,4,Monarchidae
+Passeriformes,Motacillidae,29,134,24,Motacillidae
+Passeriformes,Muscicapidae,101,255,23,Muscicapidae
+Passeriformes,Nectariniidae,33,51,9,Nectariniidae
+Passeriformes,Pachycephalidae,12,13,2,Pachycephalidae
+Passeriformes,Paridae,24,72,17,Paridae
+Passeriformes,Parulidae,62,206,13,Parulidae
+Passeriformes,Passeridae,23,71,21,Passeridae
+Passeriformes,Petroicidae,18,18,2,Petroicidae
+Passeriformes,Phylloscopidae,18,56,10,Phylloscopidae
+Passeriformes,Pipridae,10,10,2,Pipridae
+Passeriformes,Ploceidae,36,52,6,Ploceidae
+Passeriformes,Pycnonotidae,34,57,11,Pycnonotidae
+Passeriformes,Sittidae,11,30,11,Sittidae
+Passeriformes,Sturnidae,43,92,20,Sturnidae
+Passeriformes,Sylviidae,21,67,11,Sylviidae
+Passeriformes,Thamnophilidae,14,15,2,Thamnophilidae
+Passeriformes,Thraupidae,92,130,9,Thraupidae
+Passeriformes,Troglodytidae,25,60,9,Troglodytidae
+Passeriformes,Turdidae,55,143,27,Turdidae
+Passeriformes,Tyrannidae,89,196,13,Tyrannidae
+Passeriformes,Vireonidae,14,38,8,Vireonidae
+Passeriformes,Zosteropidae,12,12,6,Zosteropidae
+Pelecaniformes,Ardeidae,47,315,39,Ardeidae
+Pelecaniformes,Threskiornithidae,25,84,24,Threskiornithidae
+Perciformes,Centrarchidae,15,37,5,Centrarchidae
+Perciformes,Gobiidae,14,25,3,Gobiidae
+Perciformes,Labridae,13,26,6,Labridae
+Perciformes,Sparidae,15,17,3,Sparidae
+Piciformes,Picidae,67,150,25,Picidae
+Piciformes,Ramphastidae,48,66,13,Ramphastidae
+Pinales,Cupressaceae,33,74,14,Cupressaceae
+Pinales,Pinaceae,70,171,18,Pinaceae
+Poales,Cyperaceae,214,423,12,Cyperaceae
+Poales,Juncaceae,54,128,8,Juncaceae
+Poales,Poaceae,432,1041,20,Poaceae
+Poales,Typhaceae,12,32,7,Typhaceae
+Podicipediformes,Podicipedidae,14,78,21,Podicipedidae
+Polypodiales,Aspleniaceae,14,42,8,Aspleniaceae
+Polypodiales,Dryopteridaceae,16,46,8,Dryopteridaceae
+Primates,Cercopithecidae,21,33,8,Cercopithecidae
+Procellariiformes,Procellariidae,26,55,13,Procellariidae
+Proteales,Proteaceae,64,65,2,Proteaceae
+Psittaciformes,Psittacidae,81,104,20,Psittacidae
+Ranunculales,Papaveraceae,39,112,18,Papaveraceae
+Ranunculales,Ranunculaceae,119,302,16,Ranunculaceae
+Rodentia,Cricetidae,51,94,15,Cricetidae
+Rodentia,Heteromyidae,14,19,3,Heteromyidae
+Rodentia,Muridae,36,69,13,Muridae
+Rodentia,Sciuridae,58,105,20,Sciuridae
+Rosales,Cannabaceae,10,24,9,Cannabaceae
+Rosales,Moraceae,18,48,11,Moraceae
+Rosales,Rhamnaceae,39,63,12,Rhamnaceae
+Rosales,Rosaceae,257,707,19,Rosaceae
+Rosales,Ulmaceae,10,22,7,Ulmaceae
+Rosales,Urticaceae,13,43,12,Urticaceae
+Salmoniformes,Salmonidae,14,38,7,Salmonidae
+Santalales,Santalaceae,16,26,8,Santalaceae
+Sapindales,Anacardiaceae,36,86,18,Anacardiaceae
+Sapindales,Rutaceae,30,42,9,Rutaceae
+Sapindales,Sapindaceae,38,106,15,Sapindaceae
+Saxifragales,Crassulaceae,42,104,13,Crassulaceae
+Saxifragales,Grossulariaceae,18,42,9,Grossulariaceae
+Saxifragales,Haloragaceae,12,19,5,Haloragaceae
+Saxifragales,Saxifragaceae,38,73,9,Saxifragaceae
+Solanales,Convolvulaceae,25,73,16,Convolvulaceae
+Solanales,Solanaceae,52,176,23,Solanaceae
+Soricomorpha,Soricidae,14,25,7,Soricidae
+Squamata,Agamidae,32,34,5,Agamidae
+Squamata,Colubridae,50,81,14,Colubridae
+Squamata,Dactyloidae,14,19,4,Dactyloidae
+Squamata,Diplodactylidae,20,20,1,Diplodactylidae
+Squamata,Elapidae,27,27,2,Elapidae
+Squamata,Gekkonidae,24,37,10,Gekkonidae
+Squamata,Lacertidae,37,53,6,Lacertidae
+Squamata,Natricidae,25,55,12,Natricidae
+Squamata,Phrynosomatidae,39,69,6,Phrynosomatidae
+Squamata,Pygopodidae,10,10,1,Pygopodidae
+Squamata,Scincidae,112,120,11,Scincidae
+Squamata,Varanidae,13,14,3,Varanidae
+Squamata,Viperidae,27,40,12,Viperidae
+Strigiformes,Strigidae,42,106,26,Strigidae
+Suliformes,Phalacrocoracidae,19,51,20,Phalacrocoracidae
+Syngnathiformes,Syngnathidae,10,12,4,Syngnathidae
+Testudines,Emydidae,11,29,8,Emydidae
+Trichoptera,Limnephilidae,10,21,3,Limnephilidae
+Trogoniformes,Trogonidae,14,14,4,Trogonidae
+Vitales,Vitaceae,11,29,8,Vitaceae

@@ -65,7 +65,7 @@ const props = {
   },
   person: {
     type: String,
-    default: 'corey'
+    default: 'main'
   },
   identifier: {
     type: Function,
@@ -73,7 +73,7 @@ const props = {
   },
   ramp: { // color ramp used for vis, will work for one of these https://github.com/d3/d3-scale-chromatic
     String,
-    default: 'interpolateYlGnBu'
+    default: 'interpolateRdBu'
   },
   zoomable: {
     type: Boolean,
@@ -245,7 +245,7 @@ export default {
       // this is where we color the nodes
       allNodes.append('circle')
         .attr('fill', d => {
-          return d3[this.ramp](d.data[this.person] / d.data.sp_count)
+          return d3[this.ramp](d.data.estimate)
         })
 
       text.attr('x', d => { return d.textInfo ? d.textInfo.x : 0 })

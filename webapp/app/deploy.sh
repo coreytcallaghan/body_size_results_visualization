@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'New app deployment'
 
-git push -f git@github.com:<coreytcallaghan>/<body_size_results_visualization>.git master:gh-pages
+git push -f git@github.com:<coreytcallaghan>/<body_size_results_visualization>.git main:gh-pages
 
 cd -

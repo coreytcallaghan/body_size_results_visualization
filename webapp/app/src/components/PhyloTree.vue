@@ -21,14 +21,14 @@ div
     table.ui.center.aligned.single.line.table(v-if="selectedTree === 'main'")
       thead
         tr
-          th Total Species Analyzed in Family
-          th Total Observations in Family
-          th Number of Modeled Biogeographic Subrealms
+          th Lower Bound (95% CRI)
+          th Mean Estimated Effect
+          th Upper Bound (95% CRI)
       tbody
         tr
-          td {{ people.sp_count }}
-          td {{ people.obs_count }}
-          td {{ people.bio_count }}
+          td {{ people.lwr_95 }}
+          td {{ people.estimate }}
+          td {{ people.upr_95 }}
     .ui.horizontal.divider(v-if="selectedLeaf")#summary Summary
     wiki-summary(:selected="selectedLeaf")
   attribution
@@ -57,9 +57,9 @@ export default {
       treeData: trees.main,
       selectedLeaf: '',
       people: {
-        sp_count: 0,
-        obs_count: 0,
-        bio_count: 0
+        lwr_95: 0,
+        estimate: 0,
+        upr_95: 0
       },
       selectedTree: 'main',
       seen: parseNewick.seen
@@ -69,9 +69,9 @@ export default {
     clicked: function (x) {
       var d = this.seen[x.data.name]
       if (d) {
-        this.people.sp_count = this.seen[x.data.name].sp_count
-        this.people.obs_count = this.seen[x.data.name].obs_count
-        this.people.bio_count = this.seen[x.data.name].bio_count
+        this.people.lwr_95 = this.seen[x.data.name].lwr_95
+        this.people.estimate = this.seen[x.data.name].estimate
+        this.people.upr_95 = this.seen[x.data.name].upr_95
       }
 
       this.$scrollTo('#summary')
@@ -127,7 +127,7 @@ label {
   }
 }
 .treeclass .nodetree  circle {
-  r: 4;
+  r: 3;
 }
 
 .treeclass .node--internal circle {
