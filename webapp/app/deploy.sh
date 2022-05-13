@@ -4,15 +4,15 @@
 set -e
 
 # build
-npm run bnd
+npm run build
 
 # navigate into the build output directory
 cd dist
 
 git init
 git add -A
-git commit -m 'deploy webapp update'
+git commit -m 'New app deployment'
 
-git push -f git@github.com:<coreytcallaghan>/<body_size_urban_tolerance>.git master:gh-pages
+git push -f git@github.com:<coreytcallaghan>/<body_size_results_visualization>.git master:gh-pages
 
 cd -
