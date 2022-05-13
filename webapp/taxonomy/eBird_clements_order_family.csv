@@ -1,0 +1,239 @@
+Order,Family,sp_count,obs_count,bio_count,fam
+Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",246,1,1,Accipitridae
+Accipitriformes,Cathartidae (New World Vultures),7,1,1,Cathartidae
+Accipitriformes,Pandionidae (Osprey),1,1,1,Pandionidae
+Accipitriformes,Sagittariidae (Secretary-bird),1,1,1,Sagittariidae
+Anseriformes,"Anatidae (Ducks, Geese, and Waterfowl)",164,1,1,Anatidae
+Anseriformes,Anhimidae (Screamers),3,1,1,Anhimidae
+Anseriformes,Anseranatidae (Magpie Goose),1,1,1,Anseranatidae
+Apterygiformes,Apterygidae (Kiwis),5,1,1,Apterygidae
+Bucerotiformes,Bucerotidae (Hornbills),59,1,1,Bucerotidae
+Bucerotiformes,Bucorvidae (Ground-Hornbills),2,1,1,Bucorvidae
+Bucerotiformes,Phoeniculidae (Woodhoopoes and Scimitar-bills),8,1,1,Phoeniculidae
+Bucerotiformes,Upupidae (Hoopoes),2,1,1,Upupidae
+Caprimulgiformes,Aegothelidae (Owlet-nightjars),10,1,1,Aegothelidae
+Caprimulgiformes,Apodidae (Swifts),105,1,1,Apodidae
+Caprimulgiformes,Caprimulgidae (Nightjars and Allies),98,1,1,Caprimulgidae
+Caprimulgiformes,Hemiprocnidae (Treeswifts),4,1,1,Hemiprocnidae
+Caprimulgiformes,Nyctibiidae (Potoos),7,1,1,Nyctibiidae
+Caprimulgiformes,Podargidae (Frogmouths),15,1,1,Podargidae
+Caprimulgiformes,Steatornithidae (Oilbird),1,1,1,Steatornithidae
+Caprimulgiformes,Trochilidae (Hummingbirds),343,1,1,Trochilidae
+Cariamiformes,Cariamidae (Seriemas),2,1,1,Cariamidae
+Casuariiformes,Casuariidae (Cassowaries and Emu),4,1,1,Casuariidae
+Charadriiformes,"Alcidae (Auks, Murres, and Puffins)",25,1,1,Alcidae
+Charadriiformes,Burhinidae (Thick-knees),10,1,1,Burhinidae
+Charadriiformes,Charadriidae (Plovers and Lapwings),67,1,1,Charadriidae
+Charadriiformes,Chionidae (Sheathbills),2,1,1,Chionidae
+Charadriiformes,Dromadidae (Crab Plover),1,1,1,Dromadidae
+Charadriiformes,Glareolidae (Pratincoles and Coursers),17,1,1,Glareolidae
+Charadriiformes,Haematopodidae (Oystercatchers),12,1,1,Haematopodidae
+Charadriiformes,Ibidorhynchidae (Ibisbill),1,1,1,Ibidorhynchidae
+Charadriiformes,Jacanidae (Jacanas),8,1,1,Jacanidae
+Charadriiformes,"Laridae (Gulls, Terns, and Skimmers)",99,1,1,Laridae
+Charadriiformes,Pedionomidae (Plains-wanderer),1,1,1,Pedionomidae
+Charadriiformes,Pluvianellidae (Magellanic Plover),1,1,1,Pluvianellidae
+Charadriiformes,Pluvianidae (Egyptian Plover),1,1,1,Pluvianidae
+Charadriiformes,Recurvirostridae (Stilts and Avocets),9,1,1,Recurvirostridae
+Charadriiformes,Rostratulidae (Painted-Snipes),3,1,1,Rostratulidae
+Charadriiformes,Scolopacidae (Sandpipers and Allies),97,1,1,Scolopacidae
+Charadriiformes,Stercorariidae (Skuas and Jaegers),7,1,1,Stercorariidae
+Charadriiformes,Thinocoridae (Seedsnipes),4,1,1,Thinocoridae
+Charadriiformes,Turnicidae (Buttonquail),16,1,1,Turnicidae
+Ciconiiformes,Ciconiidae (Storks),19,1,1,Ciconiidae
+Coliiformes,Coliidae (Mousebirds),6,1,1,Coliidae
+Columbiformes,Columbidae (Pigeons and Doves),338,1,1,Columbidae
+Coraciiformes,Alcedinidae (Kingfishers),117,1,1,Alcedinidae
+Coraciiformes,Brachypteraciidae (Ground-Rollers),5,1,1,Brachypteraciidae
+Coraciiformes,Coraciidae (Rollers),12,1,1,Coraciidae
+Coraciiformes,Meropidae (Bee-eaters),28,1,1,Meropidae
+Coraciiformes,Momotidae (Motmots),14,1,1,Momotidae
+Coraciiformes,Todidae (Todies),5,1,1,Todidae
+Cuculiformes,Cuculidae (Cuckoos),146,1,1,Cuculidae
+Cuculiformes,Musophagidae (Turacos),23,1,1,Musophagidae
+Eurypygiformes,Eurypygidae (Sunbittern),1,1,1,Eurypygidae
+Eurypygiformes,Rhynochetidae (Kagu),1,1,1,Rhynochetidae
+Falconiformes,Falconidae (Falcons and Caracaras),65,1,1,Falconidae
+Galbuliformes,Bucconidae (Puffbirds),36,1,1,Bucconidae
+Galbuliformes,Galbulidae (Jacamars),18,1,1,Galbulidae
+Galliformes,"Cracidae (Guans, Chachalacas, and Curassows)",54,1,1,Cracidae
+Galliformes,Megapodiidae (Megapodes),22,1,1,Megapodiidae
+Galliformes,Numididae (Guineafowl),6,1,1,Numididae
+Galliformes,Odontophoridae (New World Quail),33,1,1,Odontophoridae
+Galliformes,"Phasianidae (Pheasants, Grouse, and Allies)",174,1,1,Phasianidae
+Gaviiformes,Gaviidae (Loons),5,1,1,Gaviidae
+Gruiformes,Aramidae (Limpkin),1,1,1,Aramidae
+Gruiformes,Gruidae (Cranes),15,1,1,Gruidae
+Gruiformes,Heliornithidae (Finfoots),3,1,1,Heliornithidae
+Gruiformes,Psophiidae (Trumpeters),3,1,1,Psophiidae
+Gruiformes,"Rallidae (Rails, Gallinules, and Coots)",144,1,1,Rallidae
+Gruiformes,Sarothruridae (Flufftails),12,1,1,Sarothruridae
+Leptosomiformes,Leptosomidae (Cuckoo-Roller),1,1,1,Leptosomidae
+Mesitornithiformes,Mesitornithidae (Mesites),3,1,1,Mesitornithidae
+Opisthocomiformes,Opisthocomidae (Hoatzin),1,1,1,Opisthocomidae
+Otidiformes,Otididae (Bustards),26,1,1,Otididae
+Passeriformes,Acanthisittidae (New Zealand Wrens),4,1,1,Acanthisittidae
+Passeriformes,Acanthizidae (Thornbills and Allies),64,1,1,Acanthizidae
+Passeriformes,Acrocephalidae (Reed-Warblers and Allies),61,1,1,Acrocephalidae
+Passeriformes,Aegithalidae (Long-tailed Tits),11,1,1,Aegithalidae
+Passeriformes,Aegithinidae (Ioras),4,1,1,Aegithinidae
+Passeriformes,Alaudidae (Larks),97,1,1,Alaudidae
+Passeriformes,Artamidae (Woodswallows),11,1,1,Artamidae
+Passeriformes,Atrichornithidae (Scrub-birds),2,1,1,Atrichornithidae
+Passeriformes,Bernieridae (Malagasy Warblers),11,1,1,Bernieridae
+Passeriformes,Bombycillidae (Waxwings),3,1,1,Bombycillidae
+Passeriformes,Buphagidae (Oxpeckers),2,1,1,Buphagidae
+Passeriformes,Calcariidae (Longspurs and Snow Buntings),6,1,1,Calcariidae
+Passeriformes,Callaeidae (Wattlebirds),5,1,1,Callaeidae
+Passeriformes,Calyptomenidae (African and Green Broadbills),6,1,1,Calyptomenidae
+Passeriformes,Campephagidae (Cuckooshrikes),87,1,1,Campephagidae
+Passeriformes,Cardinalidae (Cardinals and Allies),48,1,1,Cardinalidae
+Passeriformes,Certhiidae (Treecreepers),11,1,1,Certhiidae
+Passeriformes,Cettiidae (Bush-Warblers and Allies),36,1,1,Cettiidae
+Passeriformes,Chaetopidae (Rockjumpers),2,1,1,Chaetopidae
+Passeriformes,Chloropseidae (Leafbirds),11,1,1,Chloropseidae
+Passeriformes,Cinclidae (Dippers),5,1,1,Cinclidae
+Passeriformes,Cinclosomatidae (Quail-thrushes and Jewel-babblers),11,1,1,Cinclosomatidae
+Passeriformes,Cisticolidae (Cisticolas and Allies),147,1,1,Cisticolidae
+Passeriformes,Climacteridae (Australasian Treecreepers),7,1,1,Climacteridae
+Passeriformes,Cnemophilidae (Satinbirds),3,1,1,Cnemophilidae
+Passeriformes,Conopophagidae (Gnateaters),11,1,1,Conopophagidae
+Passeriformes,Corcoracidae (White-winged Chough and Apostlebird),2,1,1,Corcoracidae
+Passeriformes,"Corvidae (Crows, Jays, and Magpies)",125,1,1,Corvidae
+Passeriformes,Cotingidae (Cotingas),66,1,1,Cotingidae
+Passeriformes,Cracticidae (Bellmagpies and Allies),13,1,1,Cracticidae
+Passeriformes,Dasyornithidae (Bristlebirds),3,1,1,Dasyornithidae
+Passeriformes,Dicaeidae (Flowerpeckers),47,1,1,Dicaeidae
+Passeriformes,Dicruridae (Drongos),25,1,1,Dicruridae
+Passeriformes,Donacobiidae (Donacobius),1,1,1,Donacobiidae
+Passeriformes,Dulidae (Palmchat),1,1,1,Dulidae
+Passeriformes,Elachuridae (Spotted Elachura),1,1,1,Elachuridae
+Passeriformes,Emberizidae (Buntings and New World Sparrows),172,1,1,Emberizidae
+Passeriformes,Estrildidae (Waxbills and Allies),140,1,1,Estrildidae
+Passeriformes,Eulacestomatidae (Ploughbill),1,1,1,Eulacestomatidae
+Passeriformes,Eupetidae (Rail-babbler),1,1,1,Eupetidae
+Passeriformes,Eurylaimidae (Asian and Grauer's Broadbills),9,1,1,Eurylaimidae
+Passeriformes,Falcunculidae (Shrike-tit),1,1,1,Falcunculidae
+Passeriformes,Formicariidae (Antthrushes),11,1,1,Formicariidae
+Passeriformes,"Fringillidae (Finches, Euphonias, and Allies)",224,1,1,Fringillidae
+Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),303,1,1,Furnariidae
+Passeriformes,Grallariidae (Antpittas),53,1,1,Grallariidae
+Passeriformes,Hirundinidae (Swallows),86,1,1,Hirundinidae
+Passeriformes,Hyliotidae (Hyliotas),4,1,1,Hyliotidae
+Passeriformes,Hylocitreidae (Hylocitrea),1,1,1,Hylocitreidae
+Passeriformes,Hypocoliidae (Hypocolius),1,1,1,Hypocoliidae
+Passeriformes,Icteridae (Troupials and Allies),105,1,1,Icteridae
+Passeriformes,Ifritidae (Ifrita),1,1,1,Ifritidae
+Passeriformes,Irenidae (Fairy-bluebirds),2,1,1,Irenidae
+Passeriformes,Laniidae (Shrikes),32,1,1,Laniidae
+Passeriformes,Leiothrichidae (Laughingthrushes and Allies),144,1,1,Leiothrichidae
+Passeriformes,Locustellidae (Grassbirds and Allies),61,1,1,Locustellidae
+Passeriformes,Machaerirhynchidae (Boatbills),2,1,1,Machaerirhynchidae
+Passeriformes,Macrosphenidae (African Warblers),21,1,1,Macrosphenidae
+Passeriformes,Malaconotidae (Bushshrikes and Allies),49,1,1,Malaconotidae
+Passeriformes,Maluridae (Fairywrens),32,1,1,Maluridae
+Passeriformes,Melampittidae (Melampittas),2,1,1,Melampittidae
+Passeriformes,Melanocharitidae (Berrypeckers and Longbills),10,1,1,Melanocharitidae
+Passeriformes,Melanopareiidae (Crescentchests),4,1,1,Melanopareiidae
+Passeriformes,Meliphagidae (Honeyeaters),184,1,1,Meliphagidae
+Passeriformes,Menuridae (Lyrebirds),2,1,1,Menuridae
+Passeriformes,Mimidae (Mockingbirds and Thrashers),34,1,1,Mimidae
+Passeriformes,Mohoidae (Hawaiian Honeyeaters),5,1,1,Mohoidae
+Passeriformes,Mohouidae (Whiteheads),3,1,1,Mohouidae
+Passeriformes,Monarchidae (Monarch Flycatchers),100,1,1,Monarchidae
+Passeriformes,Motacillidae (Wagtails and Pipits),66,1,1,Motacillidae
+Passeriformes,Muscicapidae (Old World Flycatchers),315,1,1,Muscicapidae
+Passeriformes,Nectariniidae (Sunbirds and Spiderhunters),140,1,1,Nectariniidae
+Passeriformes,Neosittidae (Sittellas),2,1,1,Neosittidae
+Passeriformes,Nicatoridae (Nicators),3,1,1,Nicatoridae
+Passeriformes,Notiomystidae (Stitchbird),1,1,1,Notiomystidae
+Passeriformes,Oreoicidae (Australo-Papuan Bellbirds),3,1,1,Oreoicidae
+Passeriformes,Oriolidae (Old World Orioles),35,1,1,Oriolidae
+Passeriformes,Orthonychidae (Logrunners),3,1,1,Orthonychidae
+Passeriformes,Oxyruncidae (Sharpbill),1,1,1,Oxyruncidae
+Passeriformes,Pachycephalidae (Whistlers and Allies),56,1,1,Pachycephalidae
+Passeriformes,Panuridae (Bearded Reedling),1,1,1,Panuridae
+Passeriformes,Paradisaeidae (Birds-of-Paradise),39,1,1,Paradisaeidae
+Passeriformes,"Paradoxornithidae (Parrotbills, Wrentit, and Allies)",36,1,1,Paradoxornithidae
+Passeriformes,Paramythiidae (Tit Berrypecker and Crested Berrypecker),2,1,1,Paramythiidae
+Passeriformes,Pardalotidae (Pardalotes),4,1,1,Pardalotidae
+Passeriformes,"Paridae (Tits, Chickadees, and Titmice)",63,1,1,Paridae
+Passeriformes,Parulidae (New World Warblers),116,1,1,Parulidae
+Passeriformes,Passeridae (Old World Sparrows),42,1,1,Passeridae
+Passeriformes,Pellorneidae (Ground Babblers and Allies),56,1,1,Pellorneidae
+Passeriformes,Petroicidae (Australasian Robins),47,1,1,Petroicidae
+Passeriformes,Peucedramidae (Olive Warbler),1,1,1,Peucedramidae
+Passeriformes,Philepittidae (Asities),4,1,1,Philepittidae
+Passeriformes,Phylloscopidae (Leaf Warblers),76,1,1,Phylloscopidae
+Passeriformes,Picathartidae (Rockfowl),2,1,1,Picathartidae
+Passeriformes,Pipridae (Manakins),54,1,1,Pipridae
+Passeriformes,Pittidae (Pittas),44,1,1,Pittidae
+Passeriformes,Pityriaseidae (Bristlehead),1,1,1,Pityriaseidae
+Passeriformes,Platysteiridae (Wattle-eyes and Batises),30,1,1,Platysteiridae
+Passeriformes,Ploceidae (Weavers and Allies),116,1,1,Ploceidae
+Passeriformes,Pnoepygidae (Cupwings),5,1,1,Pnoepygidae
+Passeriformes,Polioptilidae (Gnatcatchers),15,1,1,Polioptilidae
+Passeriformes,Pomatostomidae (Pseudo-Babblers),5,1,1,Pomatostomidae
+Passeriformes,Promeropidae (Sugarbirds),5,1,1,Promeropidae
+Passeriformes,Prunellidae (Accentors),13,1,1,Prunellidae
+Passeriformes,Psophodidae (Whipbirds and Wedgebills),5,1,1,Psophodidae
+Passeriformes,Ptiliogonatidae (Silky-flycatchers),4,1,1,Ptiliogonatidae
+Passeriformes,Ptilonorhynchidae (Bowerbirds),26,1,1,Ptilonorhynchidae
+Passeriformes,Pycnonotidae (Bulbuls),141,1,1,Pycnonotidae
+Passeriformes,Regulidae (Kinglets),6,1,1,Regulidae
+Passeriformes,Remizidae (Penduline-Tits),11,1,1,Remizidae
+Passeriformes,Rhagologidae (Mottled Berryhunter),1,1,1,Rhagologidae
+Passeriformes,Rhinocryptidae (Tapaculos),59,1,1,Rhinocryptidae
+Passeriformes,Rhipiduridae (Fantails),50,1,1,Rhipiduridae
+Passeriformes,Sapayoidae (Sapayoa),1,1,1,Sapayoidae
+Passeriformes,Sittidae (Nuthatches),27,1,1,Sittidae
+Passeriformes,Stenostiridae (Fairy Flycatchers),9,1,1,Stenostiridae
+Passeriformes,Sturnidae (Starlings),122,1,1,Sturnidae
+Passeriformes,Sylviidae (Sylviid Warblers),33,1,1,Sylviidae
+Passeriformes,Thamnophilidae (Typical Antbirds),234,1,1,Thamnophilidae
+Passeriformes,Thraupidae (Tanagers and Allies),386,1,1,Thraupidae
+Passeriformes,Tichodromidae (Wallcreeper),1,1,1,Tichodromidae
+Passeriformes,"Timaliidae (Tree-Babblers, Scimitar-Babblers, and Allies)",52,1,1,Timaliidae
+Passeriformes,Tityridae (Tityras and Allies),33,1,1,Tityridae
+Passeriformes,Troglodytidae (Wrens),85,1,1,Troglodytidae
+Passeriformes,Turdidae (Thrushes and Allies),168,1,1,Turdidae
+Passeriformes,Tyrannidae (Tyrant Flycatchers),419,1,1,Tyrannidae
+Passeriformes,Urocynchramidae (Przevalski's Pinktail),1,1,1,Urocynchramidae
+Passeriformes,"Vangidae (Vangas, Helmetshrikes, and Allies)",39,1,1,Vangidae
+Passeriformes,Viduidae (Indigobirds),20,1,1,Viduidae
+Passeriformes,"Vireonidae (Vireos, Shrike-Babblers, and Erpornis)",62,1,1,Vireonidae
+Passeriformes,"Zosteropidae (White-eyes, Yuhinas, and Allies)",129,1,1,Zosteropidae
+Pelecaniformes,"Ardeidae (Herons, Egrets, and Bitterns)",64,1,1,Ardeidae
+Pelecaniformes,Balaenicipitidae (Shoebill),1,1,1,Balaenicipitidae
+Pelecaniformes,Pelecanidae (Pelicans),8,1,1,Pelecanidae
+Pelecaniformes,Scopidae (Hamerkop),1,1,1,Scopidae
+Pelecaniformes,Threskiornithidae (Ibises and Spoonbills),34,1,1,Threskiornithidae
+Phaethontiformes,Phaethontidae (Tropicbirds),3,1,1,Phaethontidae
+Phoenicopteriformes,Phoenicopteridae (Flamingos),6,1,1,Phoenicopteridae
+Piciformes,Capitonidae (New World Barbets),14,1,1,Capitonidae
+Piciformes,Indicatoridae (Honeyguides),17,1,1,Indicatoridae
+Piciformes,Lybiidae (African Barbets),42,1,1,Lybiidae
+Piciformes,Megalaimidae (Asian Barbets),34,1,1,Megalaimidae
+Piciformes,Picidae (Woodpeckers),230,1,1,Picidae
+Piciformes,Ramphastidae (Toucans),35,1,1,Ramphastidae
+Piciformes,Semnornithidae (Toucan-Barbets),2,1,1,Semnornithidae
+Podicipediformes,Podicipedidae (Grebes),22,1,1,Podicipedidae
+Procellariiformes,Diomedeidae (Albatrosses),15,1,1,Diomedeidae
+Procellariiformes,Hydrobatidae (Storm-Petrels),27,1,1,Hydrobatidae
+Procellariiformes,Procellariidae (Shearwaters and Petrels),92,1,1,Procellariidae
+Psittaciformes,Cacatuidae (Cockatoos),21,1,1,Cacatuidae
+Psittaciformes,Psittacidae (New World and African Parrots),168,1,1,Psittacidae
+Psittaciformes,Psittaculidae (Old World Parrots),179,1,1,Psittaculidae
+Psittaciformes,Strigopidae (New Zealand Parrots),4,1,1,Strigopidae
+Pterocliformes,Pteroclidae (Sandgrouse),16,1,1,Pteroclidae
+Rheiformes,Rheidae (Rheas),2,1,1,Rheidae
+Sphenisciformes,Spheniscidae (Penguins),18,1,1,Spheniscidae
+Strigiformes,Strigidae (Owls),207,1,1,Strigidae
+Strigiformes,Tytonidae (Barn-Owls),18,1,1,Tytonidae
+Struthioniformes,Struthionidae (Ostriches),2,1,1,Struthionidae
+Suliformes,Anhingidae (Anhingas),4,1,1,Anhingidae
+Suliformes,Fregatidae (Frigatebirds),5,1,1,Fregatidae
+Suliformes,Phalacrocoracidae (Cormorants and Shags),40,1,1,Phalacrocoracidae
+Suliformes,Sulidae (Boobies and Gannets),10,1,1,Sulidae
+Tinamiformes,Tinamidae (Tinamous),47,1,1,Tinamidae
+Trogoniformes,Trogonidae (Trogons),44,1,1,Trogonidae
