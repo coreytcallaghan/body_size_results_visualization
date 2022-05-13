@@ -11,7 +11,7 @@ div
     v-on:clicked="clicked"
     ramp="interpolateRdBu"
     data-step="2"
-    data-intro="This is a family level phylogeny. You can click on names to learn more about each family and our model results."
+    data-intro="This is a phylogeny. You can click on names to learn more about each family and our model results."
     )
 
   .ui.raised.container.segment
@@ -127,13 +127,12 @@ label {
   }
 }
 .treeclass .nodetree  circle {
-  r: 3;
+  r: 4;
 }
 
 .treeclass .node--internal circle {
-  cursor: pointer;
-  fill:  #555;
-  r: 2;
+  r: 0;
+  font: 0px;
 }
 
 .link-active {
@@ -150,6 +149,7 @@ label {
   background-color: #FFF;
   display: block;
 }
+
 
 .treeclass .nodetree.selected text {
   font-weight: bold;
