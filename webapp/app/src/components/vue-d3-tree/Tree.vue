@@ -207,7 +207,7 @@ export default {
       const text = allNodes.append('text')
         .attr('dy', '.35em')
         .text(d => {
-          if (!d.data[this.nodeText].match(/ subclade/)) { // removes labels that are subclades
+          if (!d.data[this.nodeText].match(/ott|_/)) { // removes labels that are subclades
             return d.data[this.nodeText]
           }
         })
@@ -224,7 +224,7 @@ export default {
       // branch coloring
       updateLinks.each(function (d) { d.linkExtensionNode = this })
         .attr('d', d => drawLink(originBuilder(d), originBuilder(d), this.layout))
-        .attr('stroke', x => x.color ? x.color : '#555')
+        .attr('stroke', x => x.color ? x.color : '#000')
 
       const updateAndNewLinks = links.merge(updateLinks)
       const updateAndNewLinksPromise = toPromise(updateAndNewLinks.transition().duration(this.duration).attr('d', d => drawLink(d, d.parent, this.layout)))
