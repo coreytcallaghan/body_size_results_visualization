@@ -8,8 +8,8 @@ div
     nodeText="name"
     :margin-x="0"
     :margin-y="0"
+    :person="selectedPerson"
     v-on:clicked="clicked"
-    ramp="interpolateRdBu"
     data-step="2"
     data-intro="This is a phylogeny. You can click on names to learn more about each family and our model results."
     )
@@ -55,6 +55,7 @@ export default {
   data () {
     return {
       treeData: trees.main,
+      selectedPerson: 'main',
       selectedLeaf: '',
       people: {
         lwr_95: 0,

@@ -1,5 +1,11 @@
-
 import fam from 'taxonomy/family_stats'
+// import main from 'data/main'
+// function assign (li, name) {
+//  li.forEach(x => {
+//    seen[x.Family][name] = x.estimate
+//  })
+// }
+// assign(main, 'main')
 
 var seen = fam.reduce((res, x) => {
   res[x.fam] = x
@@ -41,9 +47,10 @@ function parseNewick (s) {
           }
           tree.name = name
           if (seen[name]) {
-            tree.sp_count = seen[name].sp_count
-            tree.obs_count = seen[name].obs_count
-            tree.bio_count = seen[name].bio_count
+            tree.lwr_95 = seen[name].lwr_95 ? seen[name].lwr_95 : 0
+            tree.estimate = seen[name].estimate ? seen[name].estimate : 0
+            tree.scaled_estimate = seen[name].scaled_estimate ? seen[name].scaled_estimate : 0
+            tree.upr_95 = seen[name].upr_95 ? seen[name].upr_95 : 0
           }
 
           tree.common = token.replace(/.*?-/, '')
