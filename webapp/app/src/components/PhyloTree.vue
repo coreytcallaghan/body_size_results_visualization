@@ -11,11 +11,11 @@ div
     :person="selectedPerson"
     v-on:clicked="clicked"
     data-step="2"
-    data-intro="This is a phylogeny. You can click on names to learn more about each family and our model results."
+    data-intro="This is a phylogeny. You can click on names to learn more about each family or order and our model results."
     )
 
   .ui.raised.container.segment
-    my-header(v-bind:main="selectedLeaf ? selectedLeaf : 'Select a Family to View Summary'", 
+    my-header(v-bind:main="selectedLeaf ? selectedLeaf : 'Select a Node to View Summary'", 
               v-bind:sub="common")
     .ui.divider(v-if="selectedTree === 'main'")
     table.ui.center.aligned.single.line.table(v-if="selectedTree === 'main'")
@@ -97,7 +97,7 @@ export default {
       var d = this.seen[this.selectedLeaf]
       if (d) {
         var c = d.Family.match(/\((.*)\)/)[1]
-        return 'Order: ' + d.Order + ', Common: ' + c
+        return 'Higher Taxonomy: ' + d.Order + ' | Common: ' + c
       }
       return ''
     }

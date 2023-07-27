@@ -207,7 +207,7 @@ export default {
       const text = allNodes.append('text')
         .attr('dy', '.35em')
         .text(d => {
-          if (!d.data[this.nodeText].match(/ott|_/)) { // removes labels that are subclades
+          if (!d.data[this.nodeText].match(/ott/)) { // removes labels that are non-order level subclades
             return d.data[this.nodeText]
           }
         })
@@ -220,11 +220,14 @@ export default {
         })
         .on('mouseover', this.mouseovered(true))
         .on('mouseout', this.mouseovered(false))
+        .attr('fill', d => {
+          return d3[this.ramp](d.data.scaled_estimate)
+        })
 
       // branch coloring
       updateLinks.each(function (d) { d.linkExtensionNode = this })
         .attr('d', d => drawLink(originBuilder(d), originBuilder(d), this.layout))
-        .attr('stroke', x => x.color ? x.color : '#000')
+        .attr('stroke', x => x.color ? x.color : '#AAAAAA')
 
       const updateAndNewLinks = links.merge(updateLinks)
       const updateAndNewLinksPromise = toPromise(updateAndNewLinks.transition().duration(this.duration).attr('d', d => drawLink(d, d.parent, this.layout)))

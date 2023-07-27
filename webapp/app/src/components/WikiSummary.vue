@@ -39,7 +39,7 @@ export default {
   },
   asyncComputed: {
     resultsImage () {
-      var img = 'static/results/family_level_model_vis/' + this.selected + '.png'
+      var img = 'static/results/' + this.selected + '.png'
       return img
     },
     imageUrl () {
