@@ -11,7 +11,7 @@ div
     :person="selectedPerson"
     v-on:clicked="clicked"
     data-step="2"
-    data-intro="This is a phylogeny. You can click on names to learn more about each family or order and our model results."
+    data-intro="This is a family-level phylogeny. You can click on the names at each tip of the tree to learn more about each family and our model results."
     )
 
   .ui.raised.container.segment

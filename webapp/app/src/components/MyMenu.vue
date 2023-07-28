@@ -11,6 +11,7 @@ div
     h1#masthead 
 </template>
 
+<!-- 
 <script>
 export default {
   name: 'my-menu',
@@ -21,6 +22,7 @@ export default {
   }
 }
 </script>
+-->
 
 <style scoped>
 #masthead {
