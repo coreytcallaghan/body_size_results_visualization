@@ -1,4 +1,4 @@
-<template lang="pug">
+<!-- <template lang="pug">
 div
   .ui.secondary.menu
     .ui.container
@@ -11,7 +11,7 @@ div
     h1#masthead 
 </template>
 
-<!-- 
+ 
 <script>
 export default {
   name: 'my-menu',
@@ -22,7 +22,7 @@ export default {
   }
 }
 </script>
--->
+
 
 <style scoped>
 #masthead {
@@ -34,4 +34,4 @@ export default {
 .container {
   padding: 1em 0;
 }
-</style>
+</style> -->
