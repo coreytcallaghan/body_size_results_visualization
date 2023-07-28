@@ -31,9 +31,24 @@ species_family_try <- readRDS("urban_scores/subrealm_potential_urban_scores.RDS"
   group_by(family) %>%
   slice(1)
 
+# Manually handle problematic observations
+species_family_try[which(species_family_try$family=="Trochidae"),]$species <- "Phorcus lineatus"
+species_family_try[which(species_family_try$family=="Asilidae"),]$species <- "Tolmerus atricapillus"
+species_family_try[which(species_family_try$family=="Aphodiidae"),]$species <- "Aphodius rufipes"
+species_family_try[which(species_family_try$family=="Bucerotidae"),]$species <- "Tockus camurus"
+species_family_try[which(species_family_try$family=="Cerambycidae"),]$species <- "Leptura maculata"
+species_family_try[which(species_family_try$family=="Lauxaniidae"),]$species <- "Lyciella rorida"
+species_family_try[which(species_family_try$family=="Megachilidae"),]$species <- "Osmia bicornis"
+species_family_try[which(species_family_try$family=="Nolidae"),]$species <- "Pseudoips prasinanus"
+species_family_try[which(species_family_try$family=="Onagraceae"),]$species <- "Epilobium dodonaei"
+species_family_try[which(species_family_try$family=="Scarabaeidae"),]$species <- "Scarabaeus aegyptiacus"
+species_family_try[which(species_family_try$family=="Silphidae"),]$species <- "Phosphuga atrata"
+species_family_try[which(species_family_try$family=="Thraupidae"),]$species <- "Tangara episcopus"
+species_family_try[which(species_family_try$family=="Bovidae"),]$species <- "Bos taurus"
+
 # join the most numerous species
 # with the list of families above 
-# for which we modelled
+# for which we modeled
 dat_family <- dat_family %>%
   left_join(., species_family_try)
 
@@ -43,54 +58,50 @@ my_taxa <- dat_family$species
 resolved_names <- rotl::tnrs_match_names(names = my_taxa)
 
 resolved_names$in_tree <- rotl::is_in_tree(resolved_names$ott_id)
-
 table(resolved_names$in_tree)
 
 # now try to make a tree
-my_taxa <- dat_family$family
-resolved_names <- rotl::tnrs_match_names(names = my_taxa)
-
-resolved_names$in_tree <- rotl::is_in_tree(resolved_names$ott_id)
-
-table(resolved_names$in_tree)
-
 my_tree <- rotl::tol_induced_subtree(resolved_names %>%
                                        dplyr::filter(in_tree=="TRUE") %>%
                                        .$ott_id)
 
 tips <- data.frame(tips=my_tree$tip.label) %>%
-  mutate(family=stringr::word(tips, 1, sep="_")) %>%
-  left_join(., dat_family)
+  mutate(species=gsub("_", " ", stringr::word(tips, 1, 2, sep="_"))) %>%
+  left_join(., species_family_try) %>%
+  left_join(., dat_family, by="family")
+
+my_taxa <- dat_family$family
 unres_names <- my_taxa[my_taxa %!in% tips$family]
 
-my_tree$urban <- tips$mean_urban_score
+my_tree$urban <- tips$estimate
 my_tree$family_name <- tips$family
 
-ape::plot.phylo(my_tree, cex = 2)
+ape::plot.phylo(my_tree, cex = 0.7)
 
 tree_tibble <- my_tree %>%
   as_tibble() %>%
-  mutate(family=stringr::word(label, 1, sep="_")) %>%
+  mutate(species=gsub("_", " ", stringr::word(label, 1, 2, sep="_"))) %>%
+  left_join(., species_family_try, by="species") %>%
   left_join(., dat_family, by="family") %>%
-  mutate(label=family)
+  dplyr::mutate(label = family)
 
 tree_dat <- tree_tibble %>%
   as.treedata()
 
-pal <- c("(-5,-0.5]"="#990000",
+pal <- c("(-10,-0.5]"="#990000",
          "(-0.5,0]"="#ff9900",
-         "0"="#808080",
          "(0,0.5]"="#65cafd",
-         "(0.5,5]"="#003366")
+         "(0.5,10]"="#003366")
 tree_dat@data$estimateCat <- cut(tree_dat@data$estimate, 
                                  breaks=c(-10, 
                                           -0.5, 
                                           0,
                                           0.5, 
                                           10))
-levels(tree_dat@data$estimateCat) <- c("(-5,-0.5]", "(-0.5,0]",
-                                       "(0,0.5]", "(0.5,5]", "0")
-tree_dat@data$estimateCat[tree_dat@data$estimate==0] <- 0
+levels(tree_dat@data$estimateCat) <- c("(-10,-0.5]", "(-0.5,0]",
+                                       "(0,0.5]", "(0.5,10]")
+
+
 
 ggtree(tree_dat, layout="circular")+
   geom_point(aes(shape=isTip, color=isTip), size=3)
@@ -107,39 +118,16 @@ facet_wrap(~kingdom)
 ggtree(tree_dat, layout="circular")+
   geom_tippoint(aes(color=estimateCat), size=2)+
   scale_color_manual(values=pal, name="Body size effect", na.value=NA,
-                     labels=c("Strongly Negative", "Slightly Negative", "None",
-                              "Slightly Positive", "Strongly Positive"))+
-  geom_tiplab(size=3, offset=0.5)+
+                     labels=c("Strongly Negative", "Slightly Negative",
+                              "Slightly Positive", "Strongly Positive"),
+                     drop=FALSE)+
+  geom_tiplab(size=2.5, offset=0.5)+
   theme(legend.position="bottom")
-#ggsave("figures/tree_test.png", dpi=400, height=10, width=12)
-#write.tree(tree_dat, "tree.txt")
 
-# get the node number that matches with plantae
-plant_nodes <- tree_dat@data %>%
-  dplyr::filter(kingdom=="Plantae") %>%
-  .$node
+cowplot::ggsave2("figures/tree_test.png", dpi=400, height=12, width=12)
+cowplot::ggsave2("figures/tree_test.pdf", dpi=400, height=12, width=12)
 
-ggtree(tree_dat, layout="circular")+
-  geom_hilight(node=179,
-               alpha=0.3, fill="#66C2A5")+
-  geom_hilight(node=255,
-               alpha=0.3, fill="#FC8D62")+
-  geom_tippoint(aes(color=estimateCat), size=2)+
-  scale_color_manual(values=pal, name="Body size effect", na.value=NA,
-                     labels=c("Strongly Negative", "Slightly Negative", "None",
-                              "Slightly Positive", "Strongly Positive"))+
-  geom_tiplab(size=3, offset=0.5)+
-  theme(legend.position="bottom")
-ggsave("figures/tree_test.png", dpi=400, height=10, width=12)
-
-ggtree(tree_dat, layout="circular")+
-  geom_tippoint(aes(color=estimate), size=3)+
-  scale_color_gradientn(colours=pal, name="Body size effect")+
-  geom_cladelabel(node=255, label="Plantae", 
-                  color="red2", offset=.8, align=TRUE)+
-  theme_tree2() + 
-  xlim(0, 70) + 
-  theme_tree()
+# treeio::write.tree(tree_dat, "tree.txt")
 
 ##########################################################################
 ##########################################################################
