@@ -2,12 +2,12 @@
   "name": "app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "johnWilshire <john.h.wilshire@gmail.com>",
+  "author": "vaughnshirey <vmshirey@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
-    "deploy": "node build/deploy.js",
+    "deploy": "bash deploy.sh",
     "build": "node build/build.js",
     "bnd": "npm run build; npm run deploy;",
     "lint": "eslint --ext .js,.vue src"

@@ -250,6 +250,7 @@ export default {
         .attr('fill', d => {
           return d3[this.ramp](d.data.scaled_estimate)
         })
+        .attr('stroke', 'black')
 
       text.attr('x', d => { return d.textInfo ? d.textInfo.x : 0 })
           .attr('dx', function (d) { return d.textInfo ? anchorTodx(d.textInfo.anchor, this) : 0 })
