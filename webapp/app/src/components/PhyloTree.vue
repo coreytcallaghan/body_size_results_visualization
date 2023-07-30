@@ -96,8 +96,7 @@ export default {
     common () {
       var d = this.seen[this.selectedLeaf]
       if (d) {
-        var c = d.Family.match(/\((.*)\)/)[1]
-        return 'Higher Taxonomy: ' + d.Order + ' | Common: ' + c
+        return 'Higher Taxonomy: ' + d.Order + '
       }
       return ''
     }
