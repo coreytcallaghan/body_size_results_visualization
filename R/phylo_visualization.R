@@ -54,7 +54,7 @@ dat_family <- dat_family %>%
 
 # Try to get a tree from otl with 'species'
 # for each family
-my_taxa <- dat_family$species
+my_taxa <- c(dat_family$species)
 resolved_names <- rotl::tnrs_match_names(names = my_taxa)
 
 resolved_names$in_tree <- rotl::is_in_tree(resolved_names$ott_id)
