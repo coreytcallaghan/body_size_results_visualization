@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+tree/AllBirdsHackett1.tre
+tree/976113.zip
+taxonomy/eBird-Clements-Checklist-v2016-10-August-2016.xlsx
+tree/976113/3.BirdSupertreeMRPMatrix.tnt
+
+app/node_modules/*
+
+*.xlsx
+
+.DS_Store
