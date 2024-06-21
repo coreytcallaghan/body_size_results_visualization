@@ -1,7 +1,7 @@
 <template lang="pug">
 div
   tree.tree(
-    :data="trees" 
+    :data="treeData" 
     layoutType="radial"
     type="cluster"
     :duration="50"
