@@ -14,8 +14,6 @@ dat_family <- readRDS("../../intermediate_results/family_level_results.RDS") %>%
   dplyr::select(order, family, number_species, number_of_obs, number_of_subrealms, estimate,
                 lwr_95, upr_95)
 
-
-
 dat_order <- readRDS("../../intermediate_results/order_level_results.RDS") %>%
   dplyr::filter(response_type=="viirs") %>%
   dplyr::select(-b_body_size_scaled_log10) %>%
