@@ -5,14 +5,14 @@
     thead
       th Order
       th Family
-      th Species Name
-      th Number of species in this Family
+      th Number of Species Analysed
+      th Number of Biomes Analysed
 
     tr(v-for="f in fam")
       td {{f.Order}}
       td {{f.Family}}
-      td {{f.gs}}
       td {{f.sp_count}}
+      td {{f.bio_count}}
 </template>
 
 <script>
