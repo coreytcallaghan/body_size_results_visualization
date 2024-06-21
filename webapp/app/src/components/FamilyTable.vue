@@ -16,7 +16,7 @@
 </template>
 
 <script>
-var fam = require('taxonomy/eBird_clements_checklist_family.json')
+var fam = require('taxonomy/family_stats.json')
 export default {
   name: 'family-table',
   data: () => {
